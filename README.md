@@ -7,7 +7,9 @@
   <img src="DevPulse/assets/snap.png" alt="DevPulse Screenshot" />
 </p>
 
-
+<p align="center">
+  <img src="DevPulse/assets/Screenshot 2026-04-05 103226.png" alt="DevPulse Screenshot" />
+</p>
 ## Quick Start
 
 ```bash
