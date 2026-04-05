@@ -3,6 +3,10 @@
 > Intelligent GitHub activity engine — AI-powered commits, cross-platform, zero maintenance.
 
 ---
+<p align="center">
+  <img src="DevPulse/assets/snap.png" alt="DevPulse Screenshot" />
+</p>
+
 
 ## Quick Start
 
@@ -44,13 +48,22 @@ python gui.py
 
 ## AI Integration (Optional)
 
-Add your Anthropic API key in the GUI (Intelligence tab) or during setup.
+Add your A.I API key in the GUI (Intelligence tab) or during setup.
 Without a key, the built-in content library is used — fully functional.
 
-Get a key: https://console.anthropic.com
+##  Get Your API Keys
+
+<p align="left">
+  <a href="https://console.groq.com/keys" target="_blank">Groq API Keys</a><br>
+  <a href="https://aistudio.google.com/api-keys" target="_blank">Google Gemini API Keys</a><br>
+  <a href="https://platform.claude.com/settings/keys" target="_blank">Claude API Keys</a>
+</p>
 
 ---
 
 *DevPulse v2.0 — built for real developers*
 "# git-streak" 
 "# git-streak" 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhiru69-tech&label=Profile%20Visits&color=0e75b6&style=flat" alt="Profile visit counter" />
+</p>
